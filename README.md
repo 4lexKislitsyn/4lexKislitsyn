@@ -1,16 +1,19 @@
-### Hi there 👋
+# Alexander Kislitsyn 👋
 
-<!--
-**4lexKislitsyn/4lexKislitsyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a backend developer focusing on `C#` and `.Net core`.
 
-Here are some ideas to get you started:
+## 📫 How to reach me
+- Email: public@kislitsyn.work
+- Telegram: [@4lexKislitsyn](https://t.me/4lexKislitsyn) 
+- LinkedIn: [@4lexKislitsyn](https://www.linkedin.com/in/4lexkislitsyn/)
+- StackOverflow: [@4lexKislitsyn](https://stackoverflow.com/users/10281073/4lexkislitsyn)
+- Etc: [kislitsyn.work](https://kislitsyn.work)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 GitHub analytics
+
+<p align="left">
+<a href="https://github.com/4lexKislitsyn">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=4lexKislitsyn&hide_border=true&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=4lexKislitsyn&hide_border=true&layout=compact&langs_count=8&theme=graywhite"/>
+</a>
+</p>
