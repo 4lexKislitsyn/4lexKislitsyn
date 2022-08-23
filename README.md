@@ -4,7 +4,7 @@ Hi! I'm a backend developer focusing on `C#` and `.Net core`.
 
 ## 📫 How to reach me
 - Email: public@kislitsyn.work
-- Telegram: [@4lexKislitsyn](https://t.me/4lexKislitsyn) 
+- Telegram: [@AlexKislitsyn](https://t.me/alexkislitsyn) 
 - LinkedIn: [@4lexKislitsyn](https://www.linkedin.com/in/4lexkislitsyn/)
 - StackOverflow: [@4lexKislitsyn](https://stackoverflow.com/users/10281073/4lexkislitsyn)
 - Etc: [kislitsyn.work](https://kislitsyn.work)
